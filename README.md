@@ -14,7 +14,7 @@ Features
 Clean and minimalist design
 Responsive layout using media queries
 Easy navigation with anchor links
-Simple and modern typography
+Simple and modern typography 
 Sections to display information about myself, projects, skills, and contact details
 Technologies Used
 HTML5: Structure and content
